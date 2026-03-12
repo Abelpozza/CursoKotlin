@@ -68,7 +68,7 @@ fun main() {
 
             else -> {
                 println("❌ Opção inválida!\n")
-            }
+            }56
         }
     }
 }
